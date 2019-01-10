@@ -216,10 +216,10 @@
 								<div class="destination_price">From Rp. 485K</div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Car and Driver as Guide</li>
+										<li>Pick up</li>
+										<li>Entry Tickets</li>
+										<li>Food & Beverages</li>
 									</ul>
 								</div>
 							</div>
@@ -236,9 +236,9 @@
 								<div class="destination_price">From Rp. 165K</div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
+										<li>Pick Up</li>
+										<li>Entry Tickets</li>
+										<li>Food & Beverages</li>
 										<li>Guided visits</li>
 									</ul>
 								</div>
@@ -248,7 +248,7 @@
 						<!-- Destination -->
 						<div class="destination item">
 							<div class="destination_image">
-								<img src="images/destination_5.jpg" alt="">
+								<img src="images/kawah2.jpg" alt="">
 							</div>
 							<div class="destination_content">
 								<div class="destination_title"><a href="#">KAWAH IJEN</a></div>
@@ -256,10 +256,10 @@
 								<div class="destination_price">From Rp. 290K </div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Car and Driver as Guide</li>
+										<li>Pick up</li>
+										<li>Entry Tickets</li>
+										<li>Food & Beverages</li>
 									</ul>
 								</div>
 							</div>
@@ -276,10 +276,10 @@
 								<div class="destination_price">From Rp.155K </div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Car and Driver as Guide</li>
+										<li>Pick up</li>
+										<li>Entry Tickets</li>
+										<li>Food & Beverages</li>
 									</ul>
 								</div>
 							</div>
@@ -296,10 +296,10 @@
 								<div class="destination_price">From Rp. 1200K</div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Car and Driver as Guide</li>
+										<li>Pick up</li>
+										<li>Flight tickets excluded</li>
+										<li>Food & Beverages</li>
 									</ul>
 								</div>
 							</div>
@@ -308,7 +308,7 @@
 						<!-- Destination -->
 						<div class="destination item">
 							<div class="destination_image">
-								<img src="images/destination_8.jpg" alt="">
+								<img src="images/ranu.jpg" alt="">
 							</div>
 							<div class="destination_content">
 								<div class="destination_title"><a href="#">RANU KUMBOLO</a></div>
@@ -317,9 +317,9 @@
 								<div class="destination_list">
 									<ul>
 										<li>Jeep Hardtop</li>
-										<li></li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Food & Beverages</li>
+										<li>Flight tickets excluded</li>
+										<li>Pick Up</li>
 									</ul>
 								</div>
 							</div>
@@ -336,10 +336,10 @@
 								<div class="destination_price">From Rp. 200K</div>
 								<div class="destination_list">
 									<ul>
-										<li>5 Stars Hotel</li>
-										<li>All Inclusive</li>
-										<li>Flight tickets included</li>
-										<li>Guided visits</li>
+										<li>Car and Driver as Guide</li>
+										<li>Pick up</li>
+										<li>Flight tickets excluded</li>
+										<li>Food & Beverages</li>
 									</ul>
 								</div>
 							</div>

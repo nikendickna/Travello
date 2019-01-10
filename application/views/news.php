@@ -142,11 +142,14 @@
 								<div class="news_post_title"><a href="#">Best tips to travel light</a></div>
 								<div class="news_post_category">
 									<ul>
-										<li><a href="#">lifestyle & travel</a></li>
+										<li><a href="#">Tiket Masuk Kawah Ijen</a></li>
 									</ul>
 								</div>
 								<div class="news_post_text">
-									<p>Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet. Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet.</p>
+									<p>Kawah Ijen merupakan salah satu wisata faorit di Indonesia, khususnya Jawa Timur.
+										Fenomena Blue Fire yang dikenal sejak tahub 1975 membuat Kawah Ijen menjadi salah satu objek penelitan vulkanologi.
+										Ahli vulkanologi yang meliput aktivitas di Kawah Ijen sekitar tahun 1999 dan [..]
+									</p>
 								</div>
 								<div class="news_post_link"><a href="#">Read More</a></div>
 							</div>
@@ -160,14 +163,17 @@
 									<div>02</div>
 									<div>june</div>
 								</div>
-								<div class="news_post_title"><a href="#">10 Amazing Destination for you this summer</a></div>
+								<div class="news_post_title"><a href="#">Best tips to travel light</a></div>
 								<div class="news_post_category">
 									<ul>
-										<li><a href="#">lifestyle & travel</a></li>
+										<li><a href="#">Belajar dari Perjalanan menuju Kawah Ijen</a></li>
 									</ul>
 								</div>
 								<div class="news_post_text">
-									<p>Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet. Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet.</p>
+									<p>Untuk kalian yang pernah ke Kawah Ijen pasti tidak asing dengan aktivitas para penambang
+										belerang yang setiap hari bisa ditemui para wisatawan. Para penambang ini setiap harinya
+										mengangkut puluhan kilogram di punggungnya. Tanpa alat bantu, mengandalkan [...]
+									</p>
 								</div>
 								<div class="news_post_link"><a href="#">Read More</a></div>
 							</div>
@@ -184,11 +190,14 @@
 								<div class="news_post_title"><a href="#">How to organize your perfect vacation</a></div>
 								<div class="news_post_category">
 									<ul>
-										<li><a href="#">lifestyle & travel</a></li>
+										<li><a href="#">Bukan pendaki, bisakah ke Kawah Ijen?</a></li>
 									</ul>
 								</div>
 								<div class="news_post_text">
-									<p>Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet. Pellentesque sit amet elementum ccumsan sit amet mattis eget, tristique at leo. Vivamus massa.Tempor massa et laoreet.</p>
+									<p>Adakah yang sudah suntuk minggu ini? Udah punya rencana liburan? Pengen ke kawah ijen,
+										tapi bukan pendaki dan belum terbiasa naik gunung? Oh ya, Jalan Yuk! mau berbagi nih,
+										terkait tips tips buat kalian yang khawatir untuk trip ke [...]
+									</p>
 								</div>
 								<div class="news_post_link"><a href="#">Read More</a></div>
 							</div>
